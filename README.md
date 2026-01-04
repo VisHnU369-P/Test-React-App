@@ -246,10 +246,5 @@ This is a demo project. For production use, consider:
 - Adding error monitoring (Sentry, etc.)
 - Implementing proper image storage
 
-## 📄 License
 
-This project is created for demonstration purposes.
-
----
-
-**Built with ❤️ using React and Vite**
+**Built using React and Vite**
